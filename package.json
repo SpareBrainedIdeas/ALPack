@@ -1,0 +1,60 @@
+{
+    "name": "sparebrained-al-pack",
+    "publisher": "sparebrainedideas",
+    "displayName": "Spare Brained AL Pack",
+    "description": "A wide array of helpful extensions for AL Developers within Microsoft Dynamics 365 Business Central",
+    "author": {
+        "name": "Spare Brained Ideas AB",
+        "url": "https://sparebrained.com",
+        "email": "al-pack@sparebrained.com"
+    },
+    "icon": "sparebrainedideas.png",
+    "version": "1.0.0",
+    "homepage": "https://sparebrained.com",
+    "bugs": {
+        "url": "https://github.com/SpareBrainedIdeas/ALPack/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SpareBrainedIdeas/ALPack"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-dynamics-smb.al",
+        "ms-vscode.powershell",
+        "ms-azuretools.vscode-docker",
+
+        "waldo.crs-al-language-extension",
+        "rasmus.al-var-helper",
+        "andrzejzwierzchowski.al-code-outline",
+        "martonsagi.al-object-designer",
+        "bartpermentier.al-toolbox",
+        "davidfeldhoff.al-codeactions",
+        "wbrakowski.al-navigator",
+        "jamespearson.al-test-runner",
+        "rvanbekkum.xliff-sync",
+        "StefanMaron.allint",
+        "dynasist.al-studio",
+        
+        "vscode-icons-team.vscode-icons",
+        "nwallace.createguid",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "humao.rest-client",
+        "Gruntfuggly.todo-tree",
+        "lunarlimbo.banner-comments-plus",
+        "softwaredotcom.swdc-vscode",
+        "jeff-hykin.polacode-2019",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "hediet.vscode-drawio",
+        "grapecity.gc-excelviewer"
+    ]
+}
