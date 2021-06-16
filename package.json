@@ -9,7 +9,7 @@
         "email": "al-pack@sparebrained.com"
     },
     "icon": "sparebrainedideas.png",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://sparebrained.com",
     "bugs": {
         "url": "https://github.com/SpareBrainedIdeas/ALPack/issues"
@@ -33,7 +33,6 @@
         "waldo.crs-al-language-extension",
         "rasmus.al-var-helper",
         "andrzejzwierzchowski.al-code-outline",
-        "martonsagi.al-object-designer",
         "bartpermentier.al-toolbox",
         "davidfeldhoff.al-codeactions",
         "wbrakowski.al-navigator",
@@ -55,6 +54,8 @@
         "yzhang.markdown-all-in-one",
         "shd101wyy.markdown-preview-enhanced",
         "hediet.vscode-drawio",
-        "grapecity.gc-excelviewer"
+        "grapecity.gc-excelviewer",
+        "github.remotehub",
+        "vsls-contrib.codetour"
     ]
 }

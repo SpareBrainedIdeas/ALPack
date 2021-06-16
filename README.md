@@ -2,6 +2,8 @@
 
 This pack of Visual Studio Code extensions includes many commonly used AL-Specific Extensions, along with a variety of other developer assisting extensions.
 
+The pack can be downloaded and installed here:  https://marketplace.visualstudio.com/items?itemName=sparebrainedideas.sparebrained-al-pack
+
 ### Extension List
 
 **Microsoft Extensions**
@@ -49,13 +51,6 @@ This pack of Visual Studio Code extensions includes many commonly used AL-Specif
 
      [![vs marketplace](https://img.shields.io/vscode-marketplace/v/andrzejzwierzchowski.al-code-outline.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
      A collection of useful tools and shortcuts, like the wonderful Object Wizards and App Browser
-  </details>
-
-* <details>
-    <summary>AL Object Designer</summary>
-
-     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/martonsagi.al-object-designer.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer)
-     While AL Studio is in Beta, this remains helpful for browsing objects, events, and more
   </details>
 
 * <details>
@@ -208,6 +203,19 @@ This pack of Visual Studio Code extensions includes many commonly used AL-Specif
      a super handy panel for previewing Excel and CSV data
   </details>
 
+* <details>
+    <summary>Remote Repositories</summary>
+
+     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/github.remotehub.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
+     lets you quickly browse, search, edit, and commit to any remote GitHub repository directly from within Visual Studio Code without having to Clone the whole repo.
+  </details>
+  
+* <details>
+    <summary>CodeTour</summary>
+
+     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/vsls-contrib.codetour.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+     record and playback guided tours of codebases, directly within the editor
+  </details>
 
 
 ### Settings
