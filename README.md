@@ -217,6 +217,12 @@ The pack can be downloaded and installed here:  https://marketplace.visualstudio
      record and playback guided tours of codebases, directly within the editor
   </details>
 
+* <details>
+    <summary>Git Graph</summary>
+
+     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/mhutchie.git-graph.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+     View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
+  </details>
 
 ### Settings
 
