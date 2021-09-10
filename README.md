@@ -102,6 +102,13 @@ The pack can be downloaded and installed here:  https://marketplace.visualstudio
      Even in the early beta stage, this one is worth it just for the rapid spin-up of new workspaces. Premium features coming soon look stellar.
   </details>
 
+* <details>
+    <summary>AL Object ID Ninja</summary>
+
+     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/vjeko.vjeko-al-objid.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+     "Zero-configuration, dead-simple, no-collision object ID assignment for multi-user repositories."
+  </details>
+
 
 **General Utilities**
 

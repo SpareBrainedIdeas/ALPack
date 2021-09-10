@@ -9,7 +9,7 @@
         "email": "al-pack@sparebrained.com"
     },
     "icon": "sparebrainedideas.png",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "homepage": "https://sparebrained.com",
     "bugs": {
         "url": "https://github.com/SpareBrainedIdeas/ALPack/issues"
@@ -20,7 +20,7 @@
         "url": "https://github.com/SpareBrainedIdeas/ALPack"
     },
     "engines": {
-        "vscode": "^1.40.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Extension Packs"
@@ -40,6 +40,7 @@
         "rvanbekkum.xliff-sync",
         "StefanMaron.allint",
         "dynasist.al-studio",
+        "vjeko.vjeko-al-objid",
         
         "vscode-icons-team.vscode-icons",
         "nwallace.createguid",
