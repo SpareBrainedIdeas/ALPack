@@ -96,13 +96,6 @@ The pack can be downloaded and installed here:  https://marketplace.visualstudio
   </details>
 
 * <details>
-    <summary>AL Studio (Community Edition, Beta)</summary>
-
-     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/dynasist.al-studio.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=dynasist.al-studio)
-     Even in the early beta stage, this one is worth it just for the rapid spin-up of new workspaces. Premium features coming soon look stellar.
-  </details>
-
-* <details>
     <summary>AL Object ID Ninja</summary>
 
      [![vs marketplace](https://img.shields.io/vscode-marketplace/v/vjeko.vjeko-al-objid.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
@@ -124,13 +117,6 @@ The pack can be downloaded and installed here:  https://marketplace.visualstudio
 
      [![vs marketplace](https://img.shields.io/vscode-marketplace/v/nwallace.createguid.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=nwallace.createguid)
      Just a quick & easy GUID maker
-  </details>
-
-* <details>
-    <summary>Bracket Pair Colorizer</summary>
-
-     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/CoenraadS.bracket-pair-colorizer-2.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-     Helps code readability
   </details>
 
 * <details>
@@ -229,6 +215,13 @@ The pack can be downloaded and installed here:  https://marketplace.visualstudio
 
      [![vs marketplace](https://img.shields.io/vscode-marketplace/v/mhutchie.git-graph.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
      View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
+  </details>
+
+* <details>
+    <summary>Snippet Generator</summary>
+
+     [![vs marketplace](https://img.shields.io/vscode-marketplace/v/wenfangdu.snippet-generator.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=wenfangdu.snippet-generator)
+     Easily create snippets for use in VSCode.
   </details>
 
 ### Settings

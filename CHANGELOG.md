@@ -2,6 +2,14 @@
 
 All notable changes to the Spare Brained Ideas AL Extension Pack will be documented in this file.
 
+## [1.2.3] - 2024-02-23
+
+Added Snippet Generator extension
+
+## [1.2.2] - 2024-02-23
+
+Removed deprecated/unsupported Extensions
+
 ## [1.2.1] - 2021-09-10
 
 - Added Vjeko's `AL Object ID Ninja` extension.
